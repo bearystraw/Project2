@@ -1,0 +1,23 @@
+<!-- wp:paragraph -->
+<p>Howdy, my name is Omer Khan and I am currently a senior pursuing a degree in Technology Management.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Expanding a little more about me, I’m from Houston and in my spare time I like being outdoors and being around friends and family. Some of my hobbies include fishing, gaming, and basketball.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My most recent journey was around mid August where me and my family took a road trip to Panama City Beach in Florida.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","id":51,"width":486,"height":365,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://localhost/ExampleSite/wp-content/uploads/2023/08/cbde4f0a-70f8-48d3-8332-70f1d704bf6c.jpg" alt="" class="wp-image-51" style="width:486px;height:365px" width="486" height="365"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"right","id":53,"width":481,"height":361,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignright size-full is-resized"><img src="http://localhost/ExampleSite/wp-content/uploads/2023/08/0e53d9bc-0442-4a50-bebc-4a741fb1aa84.jpg" alt="" class="wp-image-53" style="width:481px;height:361px" width="481" height="361"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"center","id":52,"width":260,"height":563,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/ExampleSite/wp-content/uploads/2023/08/fae6ba36-01b5-448d-a087-14c6f410e919.jpg" alt="" class="wp-image-52" style="width:260px;height:563px" width="260" height="563"/></figure>
+<!-- /wp:image -->
